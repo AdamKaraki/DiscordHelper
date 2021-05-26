@@ -27,7 +27,7 @@ FFMPEG_OPTIONS = {'before_options': '-reconnect 1 -reconnect_streamed 1 -reconne
 from discord.voice_client import VoiceClient
 
 client = commands.Bot(command_prefix='!')#prefix for all commands
-TOKEN='ODQxNzgwMzA2Mzk0NjExNzEy.YJrvAA.V4rH5yqIszEjZywEFXF79OI4KFo'#Defining the token to run the bot
+TOKEN='Insert Token Here'#Defining the token to run the bot
 
 
 #Event for when the bot is ready
