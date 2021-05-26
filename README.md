@@ -2,9 +2,9 @@
 DiscordHelper is a discord bot that I created to make discord interactions easier.
 DiscordHelper started as a summer project meant to make discord meetings more enjoyable. The discord bot can play music, share memes, generate random numbers, tell jokes, and perform basic mathematical operations. 
 
-#Commands
+# Commands
 Below are the commands for the DiscordHelper! Use the ! as a prefix for the commands
-#Utility Commands
+# Utility Commands
 !hi
 !clear
 !joke
@@ -19,7 +19,7 @@ Below are the commands for the DiscordHelper! Use the ! as a prefix for the comm
 !changename
 !fact
 !add
-#Music Commands
+# Music Commands
 !join
 !leave
 !play
@@ -27,13 +27,13 @@ Below are the commands for the DiscordHelper! Use the ! as a prefix for the comm
 !volume
 !resume
 !pause
-#Sound Commands
+# Sound Commands
 !sus
 !fortnitecard
 !ps2
 !elevatormusic
 !fortnitemusic
-#Meme Commands
+# Meme Commands
 !monkey
 !doge
 !walter
