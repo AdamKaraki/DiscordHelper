@@ -6,35 +6,35 @@ DiscordHelper started as a summer project meant to make discord meetings more en
 Below are the commands for the DiscordHelper! Use the ! as a prefix for the commands
 # Utility Commands
 !hi       
-!clear
-!joke
-!kick
-!ping
-!rand
-!dice
-!subtract
-!multiply
-!divide
-!coinflip
-!changename
-!fact
-!add
+!clear       
+!joke       
+!kick       
+!ping       
+!rand       
+!dice       
+!subtract       
+!multiply       
+!divide       
+!coinflip       
+!changename       
+!fact       
+!add       
 # Music Commands
-!join
-!leave
-!play
-!stop
-!volume
-!resume
-!pause
+!join       
+!leave       
+!play       
+!stop       
+!volume       
+!resume       
+!pause       
 # Sound Commands
-!sus
-!fortnitecard
-!ps2
-!elevatormusic
-!fortnitemusic
+!sus       
+!fortnitecard       
+!ps2       
+!elevatormusic       
+!fortnitemusic       
 # Meme Commands
-!monkey
-!doge
-!walter
-!cat
+!monkey       
+!doge       
+!walter       
+!cat       
