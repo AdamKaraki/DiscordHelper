@@ -5,7 +5,7 @@ DiscordHelper started as a summer project meant to make discord meetings more en
 # Commands
 Below are the commands for the DiscordHelper! Use the ! as a prefix for the commands
 # Utility Commands
-!hi
+!hi\n
 !clear
 !joke
 !kick
