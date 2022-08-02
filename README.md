@@ -34,7 +34,7 @@ Below are the commands for the DiscordHelper! Use the ! as a prefix for the comm
 !elevatormusic       
 !fortnitemusic       
 # Meme Commands
-!monkey       
+!monke       
 !doge       
 !walter       
 !cat       
