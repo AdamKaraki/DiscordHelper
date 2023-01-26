@@ -1,6 +1,6 @@
 # DiscordHelper
 DiscordHelper is a discord bot that I created to make discord interactions easier.
-DiscordHelper started as a summer project meant to make discord meetings more enjoyable. The discord bot can play music, share memes, generate random numbers, tell jokes, and perform basic mathematical operations.  
+DiscordHelper started as a summer project meant to make discord meetings more enjoyable. The discord bot can play music, share memes, generate random numbers, tell jokes, and perform basic mathematical operations.    
 
 # Commands
 Below are the commands for the DiscordHelper! Use the ! as a prefix for the commands
